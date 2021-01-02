@@ -24,7 +24,6 @@
 'use strict';
 // 1 Zadacha
 let numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?', "");
-console.log(numberOfFilms)
 
 // 2 Zadacha
 let personalMovieDB = {
